@@ -1,0 +1,16 @@
+{
+  "version": "1.4.0",
+  "required": false,
+  "message": {
+    "0": "by",
+    "1": "en",
+    "2": "de",
+    "3": "pl",
+    "4": "ru",
+    "5": "ua"
+  },
+  "downloads": {
+    "gamejolt": "https://gamejolt.com/games/PoppyLauncher/1064045",
+    "itchio": "https://create-team.itch.io/poppy-laucher"
+  }
+}
