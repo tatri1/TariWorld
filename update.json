@@ -1,13 +1,13 @@
 {
   "version": "1.4.0",
   "required": false,
-  "ct-socials": {
+  "ctSocials": {
     "youtube": "https://www.youtube.com/@CreateTeamDev",
     "telegram": "https://t.me/Create_Team_Dev",
     "x": "https://x.com/create_team_dev",
     "discord": "https://discord.gg/twvVYExHaX"
   },
-    "tvt-socials": {
+    "tvtSocials": {
     "youtube": "https://www.youtube.com/@TARIVERX",
     "telegram": "https://t.me/TARIVERX",
     "discord": "https://discord.gg/A9Ucv8Rck"
