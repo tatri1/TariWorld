@@ -1,12 +1,12 @@
 {
   "version": "1.4.0",
   "required": false,
-  "socials":{
+  "socials": {
     "youtube": "https://www.youtube.com/channel/UCSt3H9snOdNY03mzU4K8jFw",
     "telegram": "https://t.me/Create_Team_Dev",
     "x": "https://x.com/create_team_dev",
-    "discord": "https://discord.gg/twvVYExHaX",
-  }
+    "discord": "https://discord.gg/twvVYExHaX"
+  },
   "downloads": {
     "gamejolt": "https://gamejolt.com/games/PoppyLauncher/1064045",
     "itchio": "https://create-team.itch.io/poppy-laucher"
