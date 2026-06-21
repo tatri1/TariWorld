@@ -1,11 +1,16 @@
 {
   "version": "1.4.0",
   "required": false,
-  "socials": {
-    "youtube": "https://www.youtube.com/channel/UCSt3H9snOdNY03mzU4K8jFw",
+  "ct-socials": {
+    "youtube": "https://www.youtube.com/@CreateTeamDev",
     "telegram": "https://t.me/Create_Team_Dev",
     "x": "https://x.com/create_team_dev",
     "discord": "https://discord.gg/twvVYExHaX"
+  },
+    "tvt-socials": {
+    "youtube": "https://www.youtube.com/@TARIVERX",
+    "telegram": "https://t.me/TARIVERX",
+    "discord": "https://discord.gg/A9Ucv8Rck"
   },
   "downloads": {
     "gamejolt": "https://gamejolt.com/games/PoppyLauncher/1064045",
